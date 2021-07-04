@@ -3,8 +3,4 @@ Esta es la historia de Javier Carrillo.
 Javier Carrillo tiene 34 años y nació en México,
 viviendo en todo el mundo.
 
-Hoy hablaremos de su vida.
-
-En cámara parece alto pero la verdad no es tan alto.
-
-Está aprendiendo a usar Git en Platzi.
+Hoy hablaremos de su vida y obra maestra.
