@@ -6,3 +6,5 @@ viviendo en todo el mundo.
 Hoy hablaremos de su historia.
 
 En cámara parece alto pero la verdad no es tan alto.
+
+Está aprendiendo a usar Git en Platzi.
